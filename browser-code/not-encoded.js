@@ -10,7 +10,7 @@
     // ==/UserScript==
 
 
-    const encodedURL = " "; //obfuscated url
+    const encodedURL = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdjU3MC90YW1wZXJtb25rZXktc2NyaXB0LW9zYXMvcmVmcy9oZWFkcy9tYWluL3JlbW90ZS1jb2RlL2luZGV4Lmpz"; // https://raw.githubusercontent.com/dav570/tampermonkey-script-osas/refs/heads/main/remote-code/index.js
     const remoteURL = atob(encodedURL);
 
     const CACHE_KEY = "remote_script_code";
