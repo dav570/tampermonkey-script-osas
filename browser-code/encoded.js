@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Loads remote source
-// @author       You
+// @author       Ghost
 // @match        *://*/*
 // @grant        GM_getValue
 // @grant        GM_setValue
